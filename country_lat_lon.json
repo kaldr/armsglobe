@@ -970,11 +970,167 @@
         },
         "CNBEIJING": {
             "lat": "39.5",
-            "lon": "161"
+            "lon": "116"
         },
         "CNXIZANG": {
+            "lat": "29.66",
+            "lon": "91.11"
+        },
+        "CNSHANXI":{
+            "lat": "37.9",
+            "lon": "112.52"
+        },
+        "CNSHANXI2":{
+            "lat": "35.9",
+            "lon": "109.5"
+        },
+        "CNTIANJIN":{
+            "lat": "39.1",
+            "lon": "117.2"
+        },
+        "CNHEBEI":{
             "lat": "38.6",
-            "lon": "91.1"
+            "lon": "115.7"
+        },
+        "CNHENAN":{
+            "lon": "113.6",
+            "lat": "34.8"
+        },
+        "CNSHANDONG":{
+            "lat": "36.1",
+            "lon": "118.5"
+        },
+        "CNSHANGHAI":{
+            "lon": "121.5",
+            "lat": "31.2"
+        },
+        "CNCHONGQING":{
+            "lon": "106.5",
+            "lat": "29.5"
+        },
+        "CNYUNNAN":{
+            "lon": "101.6",
+            "lat": "24.9"
+        },
+        "CNLIAONING":{
+            "lon": "122.8",
+            "lat": "41.6"
+        },
+        "CNHEILONGJIANG":{
+            "lon": "128",
+            "lat": "45.8"
+        },
+        "CNHUNAN":{
+            "lon": "111.7",
+            "lat": "27.7"
+        },
+        "CNHUBEI":{
+            "lon": "112.4",
+            "lat": "31.2"
+        },
+        "CNANHUI":{
+            "lon": "117.2",
+            "lat": "31.9"
+        },
+        "CNXINJIANG":{
+            "lon": "87.6",
+            "lat": "43.8"
+        },
+        "CNJIANGSU":{
+            "lon": "119.4",
+            "lat": "33"
+        },
+        "CNJIANGXI":{
+            "lon": "115.7",
+            "lat": "27.8"
+        },
+        "CNGUANGXI":{
+            "lon": "108.9",
+            "lat": "23.6"
+        },
+        "CNGANSU":{
+            "lon": "102.5",
+            "lat": "38.1"
+        },
+        "CNNEIMENGGU":{
+            "lon": "114.4",
+            "lat": "43.5"
+        },
+        "CNJILIN":{
+            "lon": "126.6",
+            "lat": "43.9"
+        },
+        "CNFUJIAN":{
+            "lon": "118",
+            "lat": "26.1"
+        },
+        "CNGUIZHOU":{
+            "lon": "106.7",
+            "lat": "26.9"
+        },
+        "CNGUANGDONG":{
+            "lon": "113.4",
+            "lat": "23.4"
+        },
+        "CNQINGHAI":{
+            "lon": "96.2",
+            "lat": "35.5"
+        },
+        "CNSICHUAN":{
+            "lon": "102.9",
+            "lat": "30.4"
+        },
+        "CNNINGXIA":{
+            "lon": "106.2",
+            "lat": "37.3"
+        },
+        "CNHAINAN":{
+            "lon": "110.3",
+            "lat": "20"
+        },
+        "CNZHEJIANGZHOUSHAN":{
+            "lon": "122.2",
+            "lat": "30"
+        },
+        "CNZHEJIANGHANGZHOU":{
+            "lon": "120.2",
+            "lat": "30.3"
+        },
+        "CNZHEJIANGNINGBO":{
+            "lon": "121.6",
+            "lat": "29.9"
+        },
+        "CNZHEJIANGLISHUI":{
+            "lon": "119.9",
+            "lat": "28.5"
+        },
+        "CNZHEJIANGSHAOXING":{
+            "lon": "120.6",
+            "lat": "30"
+        },
+        "CNZHEJIANGHUZHOU":{
+            "lon": "120.1",
+            "lat": "30.9"
+        },
+        "CNZHEJIANGJINHUA":{
+            "lon": "119.7",
+            "lat": "29.1"
+        },
+        "CNZHEJIANGQUZHOU":{
+            "lon": "118.9",
+            "lat": "29"
+        },
+        "CNZHEJIANGTAIZHOU":{
+            "lon": "121.4",
+            "lat": "28.7"
+        },
+        "CNZHEJIANGWENZHOU":{
+            "lon": "120.7",
+            "lat": "28"
+        },
+        "CNZHEJIANGJIAXING":{
+            "lon": "120.8",
+            "lat": "30.8"
         }
     }
 }
